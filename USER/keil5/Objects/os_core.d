@@ -1,0 +1,15 @@
+.\objects\os_core.o: ..\..\uCOS\uCOS-III\os_core.c
+.\objects\os_core.o: ..\..\uCOS\uCOS-III\os.h
+.\objects\os_core.o: ..\src\os_cfg.h
+.\objects\os_core.o: ..\..\uCOS\uC-CPU\cpu_core.h
+.\objects\os_core.o: ..\..\uCOS\uC-CPU\cpu.h
+.\objects\os_core.o: ..\..\uCOS\uC-CPU\cpu_def.h
+.\objects\os_core.o: ..\src\cpu_cfg.h
+.\objects\os_core.o: ..\..\uCOS\uC-LIB\lib_def.h
+.\objects\os_core.o: ..\..\uCOS\uC-LIB\lib_mem.h
+.\objects\os_core.o: ..\..\uCOS\uC-CPU\cpu_core.h
+.\objects\os_core.o: ..\src\lib_cfg.h
+.\objects\os_core.o: ..\..\uCOS\uC-LIB\lib_str.h
+.\objects\os_core.o: ..\..\uCOS\uC-LIB\lib_ascii.h
+.\objects\os_core.o: ..\..\uCOS\uCOS-III\os_type.h
+.\objects\os_core.o: ..\..\uCOS\uCOS-III\os_cpu.h
